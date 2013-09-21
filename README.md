@@ -15,3 +15,8 @@ Languages
 <ul>Russian</ul>
 
 <ul>Spanish</ul>
+
+Example
+===
+
+<img src='http://i.imgur.com/DjM3adw.png'>
